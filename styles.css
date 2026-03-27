@@ -51,4 +51,21 @@ div {
 
 
 
+.b{
+    /* display:block; */
+}
 
+
+.i{
+    display:inline;
+}
+
+img { 
+    display: inline-block;
+    width: 150px
+    height: 150px
+    padding: 20px
+    background-color: pink;
+    border:2px solid navy;
+    margin: 20px;
+}
